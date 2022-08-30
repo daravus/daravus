@@ -1,10 +1,14 @@
-### Hi there 👋
-
+### Hello there 👋
+<!-- ![javascript_logo](img/javascript_logo)
+![javascript_logo](img/javascript_logo) -->
+---
+<div style="display: flex; gap: 5px;">
+<!-- <img align="left" alt="HTML" width="50px" src="img/javascript_logo" /> -->
+<!-- <img align="left" alt="HTML" width="50px" src="img/javascript_logo" />
+<img align="left" alt="HTML" width="50px" src="img/javascript_logo" />
+<img align="left" alt="HTML" width="50px" src="img/javascript_logo" /> -->
+</div>
 <!--
-**daravus/daravus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
