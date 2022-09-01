@@ -20,7 +20,7 @@
 <!-- <img align="left" alt="HTML" width="50px" src="img/javascript_logo" />
 <img align="left" alt="HTML" width="50px" src="img/javascript_logo" />
 <img align="left" alt="HTML" width="50px" src="img/javascript_logo" /> -->
-</div>
+<!-- </div> -->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
