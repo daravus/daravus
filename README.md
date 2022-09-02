@@ -2,6 +2,7 @@
 <!-- ![javascript_logo](img/javascript_logo)
 ![javascript_logo](img/javascript_logo) -->
 ---
+<!-- ## 	Stack -->
 <!-- <div style="display: flex; gap: 5px;">
 <img width="58px" height="48px" alt="mysql" src="img/vue.png" />
 <img width="50px" alt="nodejs" src="img/node-js.png" />
@@ -16,6 +17,9 @@
 <img width="50px" alt="postgre" src="img/postgre.png" />
 <img width="50px" alt="mysql" src="img/mysql.png" />
 <img width="50px" alt="mysql" src="img/vscode.jpg" /> -->
+
+<!-- ## Also worked with before -->
+<!-- ... -->
 
 <!-- <img align="left" alt="HTML" width="50px" src="img/javascript_logo" />
 <img align="left" alt="HTML" width="50px" src="img/javascript_logo" />
