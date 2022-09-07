@@ -3,7 +3,7 @@
 ## My Focus
 I strive for making enjoyable user experience, intuitive design & fast performance in any application.
 ##	Favourite Stack
-<div style="display: flex; gap: 5px;" markdown="1" id="someid">
+<div style="display: flex; gap: 8px;" markdown="1">
 	<img width="58px" height="48px" alt="vuejs" src="img/vue.png" />
 	<img width="50px" alt="nodejs" src="img/node-js.png" />
 	<img width="50px" alt="ts" src="img/typescript.png" />
