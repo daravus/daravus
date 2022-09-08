@@ -36,6 +36,7 @@
 	<img width="60px" alt="go" src="img/go.jpg" />
 	<img width="40px" alt="godot" src="img/godot.jpg" />
 	<img width="40px" alt="unity" src="img/unity.jpg" />
+	<img width="40px" alt="lua" src="img/lua.jpg" />
 	<img width="42px" alt="jquery" src="img/jquery.jpg" />
 	<!-- <img width="40px" alt="python" src="img/python.jpg" /> -->
 </div>
