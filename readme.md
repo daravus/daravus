@@ -3,7 +3,6 @@
 ### I'm Ioan, I create anything from nothing 🔥
 
 ## My Focus
-<img scr="img/wave.gif">
 
 ### I strive for making enjoyable user experience, intuitive design & fast performance in any application.
 
