@@ -1,4 +1,4 @@
-# Hello there <img src="https://github.com/ioanlee/ioanlee/img/wave.gif?raw=true" alt="wawing hello" width="36" height="36"/>
+# Hello there <img src="https://github.com/ioanlee/ioanlee/blob/main/img/wave.gif" alt="waving hello" width="36" height="36"/>
 
 ### I'm Ioan, I create anything from nothing 🔥
 
