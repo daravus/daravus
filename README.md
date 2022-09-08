@@ -1,9 +1,9 @@
 # Hello there 👋
-### I'm Ioan, I create anything from nothing ✨
+### I'm Ioan, I create anything from nothing 🔥
 ## My Focus
 I strive for making enjoyable user experience, intuitive design & fast performance in any application.
 ##	Favourite Stack
-<div style="display: flex; gap: 8px;" markdown="1">
+<div style="display: flex;	gap: 8px;">
 	<img width="58px" height="48px" alt="vuejs" src="img/vue.png" />
 	<img width="50px" alt="nodejs" src="img/node-js.png" />
 	<img width="50px" alt="ts" src="img/typescript.png" />
@@ -17,7 +17,7 @@ I strive for making enjoyable user experience, intuitive design & fast performan
 </div>
 
 ### Also worked with
-<div style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 8px;">
 	<img width="36px" alt="bootstrap" src="img/bootstrap.png" />
 	<img width="36px" alt="php" src="img/php.png" />
 	<img width="36px" alt="mysql" src="img/mysql.png" />
