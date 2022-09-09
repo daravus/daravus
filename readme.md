@@ -24,12 +24,14 @@
 	<img width="60px" alt="git" src="img/git.png" />
 </div>
 
-## Also have great experience with
+### Also have great experience with
 
 <div style="display: flex; max-width: 360px; flex-wrap: wrap; gap: 8px;">
 	<img width="42px" alt="tailwindcss" src="img/tailwindcss.png" />
 	<img width="40px" alt="redis" src="img/redis.png" />
 	<img width="40px" alt="svelte" src="img/svelte.png" />
+	<img width="40px" alt="go" src="img/go.png" />
+	<img width="40px" alt="godot" src="img/godot.png" />
 	<img width="40px" alt="react" src="img/react.png" />
 	<img width="40px" alt="wordpress" src="img/wordpress.png" />
 	<img width="40px" alt="php" src="img/php.png" />
@@ -37,8 +39,6 @@
 	<img width="40px" alt="notion" src="img/notion.png" />
 	<img width="40px" alt="trello" src="img/trello.png" />
 	<img width="40px" alt="jquery" src="img/jquery.png" />
-	<img width="40px" alt="go" src="img/go.png" />
-	<img width="40px" alt="godot" src="img/godot.png" />
 	<img width="40px" alt="unity" src="img/unity.png" />
 	<img width="40px" alt="lua" src="img/lua.png" />
 	<img width="40px" alt="csharp" src="img/csharp.png" />
