@@ -14,6 +14,7 @@
 	<img width="60px" alt="js" src="img/js.png" style="border-radius: 5px;" markdown="1" />
 	<img width="60px" alt="ts" src="img/typescript.png" />
 	<img width="60px" alt="postgre" src="img/postgre.png" />
+	<img width="60px" alt="prisma" src="img/prisma.png" />
 	<img width="60px" alt="vscode" src="img/vscode.jpg" />
 	<img width="60px" alt="css3" src="img/css.png" />
 	<img width="60px" alt="html5" src="img/html.png" />
