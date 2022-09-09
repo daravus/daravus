@@ -1,10 +1,10 @@
 # Hello there <img src="img/wave.gif" alt="waving hello" width="36" height="36"/>
 
-### I'm Ioan, I create anything from nothing 🔥
+I'm Ioan, I create anything from nothing 🔥
 
 ## My Focus
 
-### I strive for making enjoyable user experience, intuitive design & fast performance in any application.
+I strive for making enjoyable user experience, intuitive design & fast performance in any application.
 
 ##	Favourite Stack
 
