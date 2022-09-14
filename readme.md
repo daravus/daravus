@@ -13,7 +13,7 @@ I strive for making enjoyable user experience, intuitive design & fast performan
 	<img width="60px" alt="nuxt" src="img/nuxt.png" />
 	<img width="60px" alt="nodejs" src="img/nodejs.png" />
 	<img width="60px" alt="ts" src="img/typescript.png" />
-	<img width="60px" alt="js" src="img/js.png" style="border-radius: 5px;" markdown="1" />
+	<img width="60px" alt="js" src="img/js.png" style="border-radius: 5px;" />
 	<img width="60px" alt="postgre" src="img/postgre.png" />
 	<img width="60px" alt="prisma" src="img/prisma.png" />
 	<img width="60px" alt="vscode" src="img/vscode.png" />
