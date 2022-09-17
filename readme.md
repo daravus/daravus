@@ -8,7 +8,7 @@ I strive for making enjoyable user experience, intuitive design & fast performan
 
 ##	Favourite Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 360px" markdown="1">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 360px">
 	<img width="60px" alt="vuejs" src="img/vue.png" />
 	<img width="60px" alt="nuxt" src="img/nuxt.png" />
 	<img width="60px" alt="nodejs" src="img/nodejs.png" />
