@@ -44,6 +44,7 @@ I strive for making enjoyable user experience, intuitive design & fast performan
 	<img width="40px" alt="csharp" src="img/csharp.png" />
 	<img width="40px" alt="bootstrap" src="img/bootstrap.png" />
 	<!-- <img width="40px" alt="python" src="img/python.png" /> -->
+	<!-- <img width="40px" alt="python" src="img/python.png" /> -->
 </div>
 
 
