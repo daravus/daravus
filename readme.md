@@ -30,7 +30,7 @@ I strive for making enjoyable user experience, intuitive design & fast performan
 	<img width="42px" alt="tailwindcss" src="img/tailwindcss.png" />
 	<img width="40px" alt="redis" src="img/redis.png" />
 	<img width="40px" alt="svelte" src="img/svelte.png" />
-	<img width="40px" alt="go" src="img/go.png" />
+	<!-- <img width="40px" alt="go" src="img/go.png" /> -->
 	<img width="40px" alt="godot" src="img/godot.png" />
 	<img width="40px" alt="react" src="img/react.png" />
 	<img width="40px" alt="wordpress" src="img/wordpress.png" />
@@ -43,7 +43,6 @@ I strive for making enjoyable user experience, intuitive design & fast performan
 	<img width="40px" alt="lua" src="img/lua.png" />
 	<img width="40px" alt="csharp" src="img/csharp.png" />
 	<img width="40px" alt="bootstrap" src="img/bootstrap.png" />
-	<!-- <img width="40px" alt="python" src="img/python.png" /> -->
 	<!-- <img width="40px" alt="python" src="img/python.png" /> -->
 </div>
 
