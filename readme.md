@@ -4,7 +4,7 @@ I'm Ioan, I create anything from nothing 🔥
 
 ## My Focus
 
-I strive for making enjoyable user experience, intuitive design & fast performance in any application.
+I strive for making enjoyable user experience,<br> intuitive design & fast performance in any application.
 
 ##	Favourite Stack
 
