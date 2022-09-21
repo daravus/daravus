@@ -9,23 +9,23 @@ I strive for making enjoyable user experience, intuitive design & fast performan
 ##	Favourite Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 360px">
-	<img width="60px" alt="vuejs" src="img/vue.png" />
-	<img width="60px" alt="nuxt" src="img/nuxt.png" />
-	<img width="60px" alt="nodejs" src="img/nodejs.png" />
-	<img width="60px" alt="ts" src="img/typescript.png" />
-	<img width="60px" alt="js" src="img/js.png" style="border-radius: 5px;" />
+	<img width="50px" alt="vuejs" src="img/vue.png" />
+	<img width="50px" alt="nuxt" src="img/nuxt.png" />
+	<img width="50px" alt="nodejs" src="img/nodejs.png" />
+	<img width="50px" alt="ts" src="img/typescript.png" />
+	<img width="50px" alt="js" src="img/js.png" style="border-radius: 5px;" />
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 360px">
-	<img width="60px" alt="postgre" src="img/postgre.png" />
-	<img width="60px" alt="prisma" src="img/prisma.png" />
-	<img width="60px" alt="vscode" src="img/vscode.png" />
-	<img width="60px" alt="css3" src="img/css.png" />
-	<img width="60px" alt="html5" src="img/html.png" />
+	<img width="50px" alt="postgre" src="img/postgre.png" />
+	<img width="50px" alt="prisma" src="img/prisma.png" />
+	<img width="50px" alt="vscode" src="img/vscode.png" />
+	<img width="50px" alt="css3" src="img/css.png" />
+	<img width="50px" alt="html5" src="img/html.png" />
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 360px">
-	<img width="60px" alt="figma" src="img/figma.png" />
-	<img width="60px" alt="sass" src="img/sass.png" />
-	<img width="60px" alt="git" src="img/git.png" />
+	<img width="50px" alt="figma" src="img/figma.png" />
+	<img width="50px" alt="sass" src="img/sass.png" />
+	<img width="50px" alt="git" src="img/git.png" />
 </div>
 
 ### Also have great experience with
