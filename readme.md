@@ -1,17 +1,17 @@
 # Hello there <img src="img/wave.gif" alt="waving hello" width="36" height="36"/>
 
-I'm Ioan, I create anything from nothing 🔥
+I'm Ioan, I love creating anything from nothing 🔥
 
 I strive for making enjoyable user experience,<br> intuitive design & fast performance in any application.
 
 ##	Favourite Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 360px">
-	<img width="50px" alt="vuejs" src="img/vue.png" />
-	<img width="50px" alt="nuxt" src="img/nuxt.png" />
+	<img width="50px" alt="svelte" src="img/svelte.png" />
 	<img width="50px" alt="nodejs" src="img/nodejs.png" />
 	<img width="50px" alt="ts" src="img/typescript.png" />
 	<img width="50px" alt="js" src="img/js.png" style="border-radius: 5px;" />
+	<img width="50px" alt="tailwindcss" src="img/tailwindcss.png" />
 </div>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; max-width: 360px">
 	<img width="50px" alt="postgre" src="img/postgre.png" />
@@ -29,9 +29,8 @@ I strive for making enjoyable user experience,<br> intuitive design & fast perfo
 ### Also have great experience with
 
 <div style="display: flex; max-width: 360px; flex-wrap: wrap; gap: 8px;">
-	<img width="42px" alt="tailwindcss" src="img/tailwindcss.png" />
 	<img width="40px" alt="redis" src="img/redis.png" />
-	<img width="40px" alt="svelte" src="img/svelte.png" />
+	<img width="40px" alt="vuejs" src="img/vue.png" />
 	<!-- <img width="40px" alt="go" src="img/go.png" /> -->
 	<img width="40px" alt="godot" src="img/godot.png" />
 	<img width="40px" alt="react" src="img/react.png" />
